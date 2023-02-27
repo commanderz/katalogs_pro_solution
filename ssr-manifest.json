@@ -88,10 +88,10 @@
     "/assets/bg-trading-tools-cdc648af.webp"
   ],
   "../../../@vite-plugin-pages/route-block": [
-    "/assets/_...all_-c211c226.js"
+    "/assets/_...all_-0855e94e.js"
   ],
   "../../../@vite-plugin-pwa/virtual:pwa-register": [
-    "/assets/virtual_pwa-register-136d05a9.js"
+    "/assets/virtual_pwa-register-13ed7c5c.js"
   ],
   "../../../@vite-plugin-vue-layouts/generated-layouts": [
     "/assets/nefa-88bbc95f.svg",
@@ -1142,10 +1142,10 @@
     "/assets/bg-trading-tools-cdc648af.webp"
   ],
   "src/layouts/404.vue": [
-    "/assets/404-c9150b52.js"
+    "/assets/404-7c14ca8d.js"
   ],
   "src/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/404-c9150b52.js"
+    "/assets/404-7c14ca8d.js"
   ],
   "src/layouts/default.vue": [
     "/assets/nefa-88bbc95f.svg",
@@ -1170,10 +1170,10 @@
     "/assets/bg-trading-tools-cdc648af.webp"
   ],
   "src/layouts/default0.vue": [
-    "/assets/default0-38bb1121.js"
+    "/assets/default0-ee322f86.js"
   ],
   "src/layouts/home.vue": [
-    "/assets/home-a2e58f0e.js"
+    "/assets/home-07be62c6.js"
   ],
   "src/main.ts": [
     "/assets/nefa-88bbc95f.svg",
@@ -1253,16 +1253,16 @@
     "/assets/bg-trading-tools-cdc648af.webp"
   ],
   "src/pages/[...all].vue": [
-    "/assets/_...all_-c211c226.js"
+    "/assets/_...all_-0855e94e.js"
   ],
   "src/pages/[...all].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_...all_-c211c226.js"
+    "/assets/_...all_-0855e94e.js"
   ],
   "src/pages/hi/[name].vue": [
-    "/assets/_name_-45c32d0a.js"
+    "/assets/_name_-d10cd280.js"
   ],
   "src/pages/hi/[name].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_name_-45c32d0a.js"
+    "/assets/_name_-d10cd280.js"
   ],
   "src/pages/index.vue": [
     "/assets/nefa-88bbc95f.svg",
@@ -1287,7 +1287,7 @@
     "/assets/bg-trading-tools-cdc648af.webp"
   ],
   "src/stores/user.ts": [
-    "/assets/_name_-45c32d0a.js"
+    "/assets/_name_-d10cd280.js"
   ],
   "src/styles/main.css": [
     "/assets/nefa-88bbc95f.svg",
