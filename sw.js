@@ -78,28 +78,28 @@ define(['./workbox-148cb7e5'], (function (workbox) { 'use strict';
    * See https://goo.gl/S9QRab
    */
   workbox.precacheAndRoute([{
-    "url": "assets/_...all_-855e8ba3.js",
+    "url": "assets/_...all_-378084db.js",
     "revision": null
   }, {
-    "url": "assets/_name_-b3059830.js",
+    "url": "assets/_name_-e6c97462.js",
     "revision": null
   }, {
-    "url": "assets/404-0fd27c3f.js",
+    "url": "assets/404-c64297a0.js",
     "revision": null
   }, {
-    "url": "assets/app-81e8110d.js",
+    "url": "assets/app-19d2c910.js",
     "revision": null
   }, {
-    "url": "assets/default0-d98ce3e6.js",
+    "url": "assets/default0-a9feb586.js",
     "revision": null
   }, {
-    "url": "assets/home-df629191.js",
+    "url": "assets/home-4f5a9ff9.js",
     "revision": null
   }, {
-    "url": "assets/index-2eb56313.css",
+    "url": "assets/index-06beceeb.css",
     "revision": null
   }, {
-    "url": "assets/start-76e36822.js",
+    "url": "assets/start-2d4648cd.js",
     "revision": null
   }, {
     "url": "assets/start-fab843cb.css",
@@ -108,20 +108,20 @@ define(['./workbox-148cb7e5'], (function (workbox) { 'use strict';
     "url": "assets/TheFooter-145b0695.css",
     "revision": null
   }, {
-    "url": "assets/TheFooter-fcc92464.js",
+    "url": "assets/TheFooter-d57c9b60.js",
     "revision": null
   }, {
-    "url": "assets/virtual_pwa-register-23afb742.js",
+    "url": "assets/virtual_pwa-register-9b8e00be.js",
     "revision": null
   }, {
     "url": "assets/workbox-window.prod.es5-295a6886.js",
     "revision": null
   }, {
     "url": "index.html",
-    "revision": "b148f87829535a7cbbb4a6b728424a26"
+    "revision": "891cbe079d959f9ba4ee7ddb0fa70f26"
   }, {
     "url": "start.html",
-    "revision": "fe444d8fc24fe99545dd2621401efa60"
+    "revision": "e52dfa2a6eb460d62b378a23f4db0ff7"
   }, {
     "url": "favicon.svg",
     "revision": "9c0135317804268933c342fb51058593"
@@ -130,10 +130,10 @@ define(['./workbox-148cb7e5'], (function (workbox) { 'use strict';
     "revision": "3d0337ab1eb7a73219a025394a203870"
   }, {
     "url": "pwa-192x192.png",
-    "revision": "d6e06d5734462200aea356be45a71a43"
+    "revision": "a6e9887c7db720319cc89995f37c5bb4"
   }, {
     "url": "pwa-512x512.png",
-    "revision": "33f1ec987fdba18f11aad07414c71e7d"
+    "revision": "c7a21fb5fa1fd974473c5ee8b53d6acb"
   }, {
     "url": "manifest.webmanifest",
     "revision": "4a5d0f72671f8df8debc5805960bfcd4"
