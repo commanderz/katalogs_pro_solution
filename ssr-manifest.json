@@ -126,7 +126,7 @@
     "/assets/bg-trading-tools-black-53c81c40.webp"
   ],
   "../../../@vite-plugin-pwa/virtual:pwa-register": [
-    "/assets/virtual_pwa-register-6af7677f.js"
+    "/assets/virtual_pwa-register-30d9965c.js"
   ],
   "../../../@vite-plugin-vue-layouts/generated-layouts": [
     "/assets/logo-22052005.svg",
@@ -972,8 +972,8 @@
     "/assets/bg-trading-tools-black-53c81c40.webp"
   ],
   "src/assets/img/getting-started/Pay2.svg": [
-    "/assets/start-114cf15a.js",
-    "/assets/start-fab843cb.css",
+    "/assets/start-474ab357.js",
+    "/assets/start-7ef823c9.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -987,8 +987,8 @@
     "/assets/background-36e5d431.png"
   ],
   "src/assets/img/getting-started/access.png": [
-    "/assets/start-114cf15a.js",
-    "/assets/start-fab843cb.css",
+    "/assets/start-474ab357.js",
+    "/assets/start-7ef823c9.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -1002,8 +1002,8 @@
     "/assets/background-36e5d431.png"
   ],
   "src/assets/img/getting-started/contacts.svg": [
-    "/assets/start-114cf15a.js",
-    "/assets/start-fab843cb.css",
+    "/assets/start-474ab357.js",
+    "/assets/start-7ef823c9.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -1017,8 +1017,8 @@
     "/assets/background-36e5d431.png"
   ],
   "src/assets/img/getting-started/right-arrow3.svg": [
-    "/assets/start-114cf15a.js",
-    "/assets/start-fab843cb.css",
+    "/assets/start-474ab357.js",
+    "/assets/start-7ef823c9.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -1032,8 +1032,8 @@
     "/assets/background-36e5d431.png"
   ],
   "src/assets/img2/auto3_.webp": [
-    "/assets/start-114cf15a.js",
-    "/assets/start-fab843cb.css",
+    "/assets/start-474ab357.js",
+    "/assets/start-7ef823c9.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -1103,8 +1103,8 @@
     "/assets/bg-trading-tools-black-53c81c40.webp"
   ],
   "src/assets/img2/car5_.png": [
-    "/assets/start-114cf15a.js",
-    "/assets/start-fab843cb.css",
+    "/assets/start-474ab357.js",
+    "/assets/start-7ef823c9.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -1160,8 +1160,8 @@
     "/assets/bg-trading-tools-black-53c81c40.webp"
   ],
   "src/assets/img2/truck4_.png": [
-    "/assets/start-114cf15a.js",
-    "/assets/start-fab843cb.css",
+    "/assets/start-474ab357.js",
+    "/assets/start-7ef823c9.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -1175,8 +1175,8 @@
     "/assets/background-36e5d431.png"
   ],
   "src/assets/img2/vin_srch2.png": [
-    "/assets/start-114cf15a.js",
-    "/assets/start-fab843cb.css",
+    "/assets/start-474ab357.js",
+    "/assets/start-7ef823c9.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -1218,8 +1218,8 @@
     "/assets/bg-trading-tools-black-53c81c40.webp"
   ],
   "src/assets/img2/white2.png": [
-    "/assets/start-114cf15a.js",
-    "/assets/start-fab843cb.css",
+    "/assets/start-474ab357.js",
+    "/assets/start-7ef823c9.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -1233,8 +1233,8 @@
     "/assets/background-36e5d431.png"
   ],
   "src/assets/img2/white3_.png": [
-    "/assets/start-114cf15a.js",
-    "/assets/start-fab843cb.css",
+    "/assets/start-474ab357.js",
+    "/assets/start-7ef823c9.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -1262,20 +1262,20 @@
     "/assets/bg-trading-tools-black-53c81c40.webp"
   ],
   "src/components/TheFooter.vue": [
-    "/assets/TheFooter-76023f6b.js",
+    "/assets/TheFooter-ad61e3bc.js",
     "/assets/TheFooter-b399e625.css"
   ],
   "src/components/TheFooter.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/TheFooter-76023f6b.js",
+    "/assets/TheFooter-ad61e3bc.js",
     "/assets/TheFooter-b399e625.css"
   ],
   "src/components/TheFooter.vue?vue&type=style&index=0&scope=true&lang.css": [
-    "/assets/TheFooter-76023f6b.js",
+    "/assets/TheFooter-ad61e3bc.js",
     "/assets/TheFooter-b399e625.css"
   ],
   "src/components/base/BaseAccordion.vue": [
-    "/assets/start-114cf15a.js",
-    "/assets/start-fab843cb.css",
+    "/assets/start-474ab357.js",
+    "/assets/start-7ef823c9.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -1345,8 +1345,8 @@
     "/assets/bg-trading-tools-black-53c81c40.webp"
   ],
   "src/components/base/BaseSection.vue": [
-    "/assets/start-114cf15a.js",
-    "/assets/start-fab843cb.css",
+    "/assets/start-474ab357.js",
+    "/assets/start-7ef823c9.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -1360,8 +1360,8 @@
     "/assets/background-36e5d431.png"
   ],
   "src/components/landing/LandingListItem.vue": [
-    "/assets/start-114cf15a.js",
-    "/assets/start-fab843cb.css",
+    "/assets/start-474ab357.js",
+    "/assets/start-7ef823c9.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -1375,8 +1375,8 @@
     "/assets/background-36e5d431.png"
   ],
   "src/components/landing/LandingPartnerImage.vue": [
-    "/assets/start-114cf15a.js",
-    "/assets/start-fab843cb.css",
+    "/assets/start-474ab357.js",
+    "/assets/start-7ef823c9.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -1390,8 +1390,8 @@
     "/assets/background-36e5d431.png"
   ],
   "src/components/vmdi/ArrowUpIcon.vue": [
-    "/assets/start-114cf15a.js",
-    "/assets/start-fab843cb.css",
+    "/assets/start-474ab357.js",
+    "/assets/start-7ef823c9.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -1405,8 +1405,8 @@
     "/assets/background-36e5d431.png"
   ],
   "src/components/vmdi/CheckCircleIcon.vue": [
-    "/assets/start-114cf15a.js",
-    "/assets/start-fab843cb.css",
+    "/assets/start-474ab357.js",
+    "/assets/start-7ef823c9.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -1420,8 +1420,8 @@
     "/assets/background-36e5d431.png"
   ],
   "src/components/vmdi/ChevronDownIcon.vue": [
-    "/assets/start-114cf15a.js",
-    "/assets/start-fab843cb.css",
+    "/assets/start-474ab357.js",
+    "/assets/start-7ef823c9.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -1435,8 +1435,8 @@
     "/assets/background-36e5d431.png"
   ],
   "src/components/vmdi/ChevronUpIcon.vue": [
-    "/assets/start-114cf15a.js",
-    "/assets/start-fab843cb.css",
+    "/assets/start-474ab357.js",
+    "/assets/start-7ef823c9.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -1492,10 +1492,10 @@
     "/assets/bg-trading-tools-black-53c81c40.webp"
   ],
   "src/layouts/404.vue": [
-    "/assets/404-58a48472.js"
+    "/assets/404-e81134e7.js"
   ],
   "src/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/404-58a48472.js"
+    "/assets/404-e81134e7.js"
   ],
   "src/layouts/default.vue": [
     "/assets/logo-22052005.svg",
@@ -1526,10 +1526,10 @@
     "/assets/bg-trading-tools-black-53c81c40.webp"
   ],
   "src/layouts/default0.vue": [
-    "/assets/default0-1812baaf.js"
+    "/assets/default0-cc077f6a.js"
   ],
   "src/layouts/home.vue": [
-    "/assets/home-f93ff327.js"
+    "/assets/home-79c3c58c.js"
   ],
   "src/main.ts": [
     "/assets/logo-22052005.svg",
@@ -1630,16 +1630,16 @@
     "/assets/bg-trading-tools-black-53c81c40.webp"
   ],
   "src/pages/[...all].vue": [
-    "/assets/_...all_-6a881314.js"
+    "/assets/_...all_-72590c94.js"
   ],
   "src/pages/[...all].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_...all_-6a881314.js"
+    "/assets/_...all_-72590c94.js"
   ],
   "src/pages/hi/[name].vue": [
-    "/assets/_name_-04824119.js"
+    "/assets/_name_-8927c89a.js"
   ],
   "src/pages/hi/[name].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_name_-04824119.js"
+    "/assets/_name_-8927c89a.js"
   ],
   "src/pages/index.vue": [
     "/assets/logo-22052005.svg",
@@ -1656,8 +1656,23 @@
     "/assets/bg-trading-tools-black-53c81c40.webp"
   ],
   "src/pages/start.vue": [
-    "/assets/start-114cf15a.js",
-    "/assets/start-fab843cb.css",
+    "/assets/start-474ab357.js",
+    "/assets/start-7ef823c9.css",
+    "/assets/white2-b033eb1e.png",
+    "/assets/vin_srch2-e9ce73b1.png",
+    "/assets/auto3_-748a0500.webp",
+    "/assets/white3_-30083026.png",
+    "/assets/truck4_-23748a41.png",
+    "/assets/contacts-a3ca9a89.svg",
+    "/assets/right-arrow3-198b2250.svg",
+    "/assets/Pay2-376bcd35.svg",
+    "/assets/access-8605add8.png",
+    "/assets/car5_-ea1cb04c.png",
+    "/assets/background-36e5d431.png"
+  ],
+  "src/pages/start.vue?vue&type=script&lang.ts": [
+    "/assets/start-474ab357.js",
+    "/assets/start-7ef823c9.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -1671,8 +1686,8 @@
     "/assets/background-36e5d431.png"
   ],
   "src/pages/start.vue?vue&type=style&index=0&scoped=ac866f83&lang.css": [
-    "/assets/start-114cf15a.js",
-    "/assets/start-fab843cb.css",
+    "/assets/start-474ab357.js",
+    "/assets/start-7ef823c9.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -1686,7 +1701,7 @@
     "/assets/background-36e5d431.png"
   ],
   "src/stores/user.ts": [
-    "/assets/_name_-04824119.js"
+    "/assets/_name_-8927c89a.js"
   ],
   "src/styles/atropos.css": [
     "/assets/logo-22052005.svg",
