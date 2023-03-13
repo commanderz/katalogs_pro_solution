@@ -1,0 +1,1 @@
+import{d as a,a as o,o as s,c as _,t as l,f as c,g as r,n as e}from"./app-18bdd4dd.js";const n=a({__name:"[...all]",setup(p){const{t}=o();return(f,i)=>(s(),_("div",null,l(c(t)("not-found")),1))}});typeof e=="function"&&e(n);const d=r(n,[["__file","C:/_nextjsprojects/_Upwork/katalogs_landing2/src/pages/[...all].vue"]]);export{d as default};
