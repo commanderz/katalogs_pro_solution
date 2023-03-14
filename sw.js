@@ -118,10 +118,10 @@ define(['./workbox-148cb7e5'], (function (workbox) { 'use strict';
     "revision": null
   }, {
     "url": "index.html",
-    "revision": "e192773f5c80af4deb580af7ba697e91"
+    "revision": "b4b8db9f493713c1f456356adf874584"
   }, {
     "url": "start.html",
-    "revision": "8d8e3d84be010ddf2cbf6e9aeda8c695"
+    "revision": "8773ce6a739423065dde5773cdcaf5b1"
   }, {
     "url": "favicon.svg",
     "revision": "9c0135317804268933c342fb51058593"
