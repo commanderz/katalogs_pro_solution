@@ -1,4 +1,18 @@
 {
+  "\u0000C:/_nextjsprojects/_Upwork/katalogs_landing2/node_modules/aos/dist/aos.js?commonjs-module": [
+    "/assets/start-b67744d5.js",
+    "/assets/start-b0114c22.css",
+    "/assets/white2-b033eb1e.png",
+    "/assets/vin_srch2-e9ce73b1.png",
+    "/assets/auto3_-748a0500.webp",
+    "/assets/white3_-30083026.png",
+    "/assets/truck4_-23748a41.png",
+    "/assets/contacts-a3ca9a89.svg",
+    "/assets/right-arrow3-ecdf385f.svg",
+    "/assets/Pay2-376bcd35.svg",
+    "/assets/access-8605add8.png",
+    "/assets/background-36e5d431.png"
+  ],
   "\u0000C:/_nextjsprojects/_Upwork/katalogs_landing2/node_modules/nprogress/nprogress.js?commonjs-module": [
     "/assets/logo-73aa629b.svg",
     "/assets/warp-bg-01938d84.jpg",
@@ -96,7 +110,7 @@
     "/assets/bg-1c17d2ff.jpg"
   ],
   "../../../@vite-plugin-pwa/virtual:pwa-register": [
-    "/assets/virtual_pwa-register-b98aff70.js"
+    "/assets/virtual_pwa-register-c615b729.js"
   ],
   "../../../@vite-plugin-vue-layouts/generated-layouts": [
     "/assets/logo-73aa629b.svg",
@@ -602,6 +616,20 @@
     "/assets/warp-bg-v-d45de883.jpg",
     "/assets/bg-1c17d2ff.jpg"
   ],
+  "node_modules/aos/dist/aos.js": [
+    "/assets/start-b67744d5.js",
+    "/assets/start-b0114c22.css",
+    "/assets/white2-b033eb1e.png",
+    "/assets/vin_srch2-e9ce73b1.png",
+    "/assets/auto3_-748a0500.webp",
+    "/assets/white3_-30083026.png",
+    "/assets/truck4_-23748a41.png",
+    "/assets/contacts-a3ca9a89.svg",
+    "/assets/right-arrow3-ecdf385f.svg",
+    "/assets/Pay2-376bcd35.svg",
+    "/assets/access-8605add8.png",
+    "/assets/background-36e5d431.png"
+  ],
   "node_modules/atropos/esm/atropos.esm.js": [
     "/assets/logo-73aa629b.svg",
     "/assets/warp-bg-01938d84.jpg",
@@ -798,8 +826,8 @@
     "/assets/bg-1c17d2ff.jpg"
   ],
   "src/assets/img/getting-started/Pay2.svg": [
-    "/assets/start-43426cc9.js",
-    "/assets/start-e2ddce5d.css",
+    "/assets/start-b67744d5.js",
+    "/assets/start-b0114c22.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -812,8 +840,8 @@
     "/assets/background-36e5d431.png"
   ],
   "src/assets/img/getting-started/access.png": [
-    "/assets/start-43426cc9.js",
-    "/assets/start-e2ddce5d.css",
+    "/assets/start-b67744d5.js",
+    "/assets/start-b0114c22.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -826,8 +854,8 @@
     "/assets/background-36e5d431.png"
   ],
   "src/assets/img/getting-started/contacts.svg": [
-    "/assets/start-43426cc9.js",
-    "/assets/start-e2ddce5d.css",
+    "/assets/start-b67744d5.js",
+    "/assets/start-b0114c22.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -840,8 +868,8 @@
     "/assets/background-36e5d431.png"
   ],
   "src/assets/img/getting-started/right-arrow3.svg": [
-    "/assets/start-43426cc9.js",
-    "/assets/start-e2ddce5d.css",
+    "/assets/start-b67744d5.js",
+    "/assets/start-b0114c22.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -854,8 +882,8 @@
     "/assets/background-36e5d431.png"
   ],
   "src/assets/img2/auto3_.webp": [
-    "/assets/start-43426cc9.js",
-    "/assets/start-e2ddce5d.css",
+    "/assets/start-b67744d5.js",
+    "/assets/start-b0114c22.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -952,8 +980,8 @@
     "/assets/bg-1c17d2ff.jpg"
   ],
   "src/assets/img2/truck4_.png": [
-    "/assets/start-43426cc9.js",
-    "/assets/start-e2ddce5d.css",
+    "/assets/start-b67744d5.js",
+    "/assets/start-b0114c22.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -966,8 +994,8 @@
     "/assets/background-36e5d431.png"
   ],
   "src/assets/img2/vin_srch2.png": [
-    "/assets/start-43426cc9.js",
-    "/assets/start-e2ddce5d.css",
+    "/assets/start-b67744d5.js",
+    "/assets/start-b0114c22.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -1004,8 +1032,8 @@
     "/assets/bg-1c17d2ff.jpg"
   ],
   "src/assets/img2/white2.png": [
-    "/assets/start-43426cc9.js",
-    "/assets/start-e2ddce5d.css",
+    "/assets/start-b67744d5.js",
+    "/assets/start-b0114c22.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -1018,8 +1046,8 @@
     "/assets/background-36e5d431.png"
   ],
   "src/assets/img2/white3_.png": [
-    "/assets/start-43426cc9.js",
-    "/assets/start-e2ddce5d.css",
+    "/assets/start-b67744d5.js",
+    "/assets/start-b0114c22.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -1044,15 +1072,15 @@
     "/assets/bg-1c17d2ff.jpg"
   ],
   "src/components/TheFooter.vue": [
-    "/assets/TheFooter-a384a06e.js",
+    "/assets/TheFooter-6d2ec9fe.js",
     "/assets/TheFooter-b399e625.css"
   ],
   "src/components/TheFooter.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/TheFooter-a384a06e.js",
+    "/assets/TheFooter-6d2ec9fe.js",
     "/assets/TheFooter-b399e625.css"
   ],
   "src/components/TheFooter.vue?vue&type=style&index=0&scope=true&lang.css": [
-    "/assets/TheFooter-a384a06e.js",
+    "/assets/TheFooter-6d2ec9fe.js",
     "/assets/TheFooter-b399e625.css"
   ],
   "src/components/base/BaseButton.vue": [
@@ -1128,8 +1156,8 @@
     "/assets/bg-1c17d2ff.jpg"
   ],
   "src/components/base/BaseSection.vue": [
-    "/assets/start-43426cc9.js",
-    "/assets/start-e2ddce5d.css",
+    "/assets/start-b67744d5.js",
+    "/assets/start-b0114c22.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -1142,8 +1170,8 @@
     "/assets/background-36e5d431.png"
   ],
   "src/components/landing/LandingListItem.vue": [
-    "/assets/start-43426cc9.js",
-    "/assets/start-e2ddce5d.css",
+    "/assets/start-b67744d5.js",
+    "/assets/start-b0114c22.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -1156,8 +1184,8 @@
     "/assets/background-36e5d431.png"
   ],
   "src/components/vmdi/ArrowUpIcon.vue": [
-    "/assets/start-43426cc9.js",
-    "/assets/start-e2ddce5d.css",
+    "/assets/start-b67744d5.js",
+    "/assets/start-b0114c22.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -1170,8 +1198,8 @@
     "/assets/background-36e5d431.png"
   ],
   "src/components/vmdi/CheckCircleIcon.vue": [
-    "/assets/start-43426cc9.js",
-    "/assets/start-e2ddce5d.css",
+    "/assets/start-b67744d5.js",
+    "/assets/start-b0114c22.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -1220,10 +1248,10 @@
     "/assets/bg-1c17d2ff.jpg"
   ],
   "src/layouts/404.vue": [
-    "/assets/404-85338ced.js"
+    "/assets/404-983b06db.js"
   ],
   "src/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/404-85338ced.js"
+    "/assets/404-983b06db.js"
   ],
   "src/layouts/default.vue": [
     "/assets/logo-73aa629b.svg",
@@ -1250,10 +1278,10 @@
     "/assets/bg-1c17d2ff.jpg"
   ],
   "src/layouts/default0.vue": [
-    "/assets/default0-9e1fb985.js"
+    "/assets/default0-bcd87b72.js"
   ],
   "src/layouts/home.vue": [
-    "/assets/home-c822fa06.js"
+    "/assets/home-109211e6.js"
   ],
   "src/main.ts": [
     "/assets/logo-73aa629b.svg",
@@ -1328,16 +1356,16 @@
     "/assets/bg-1c17d2ff.jpg"
   ],
   "src/pages/[...all].vue": [
-    "/assets/_...all_-cc17a4c6.js"
+    "/assets/_...all_-030fe1e5.js"
   ],
   "src/pages/[...all].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_...all_-cc17a4c6.js"
+    "/assets/_...all_-030fe1e5.js"
   ],
   "src/pages/hi/[name].vue": [
-    "/assets/_name_-7f38db57.js"
+    "/assets/_name_-675e58d8.js"
   ],
   "src/pages/hi/[name].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_name_-7f38db57.js"
+    "/assets/_name_-675e58d8.js"
   ],
   "src/pages/index.vue": [
     "/assets/logo-73aa629b.svg",
@@ -1364,8 +1392,8 @@
     "/assets/bg-1c17d2ff.jpg"
   ],
   "src/pages/start.vue": [
-    "/assets/start-43426cc9.js",
-    "/assets/start-e2ddce5d.css",
+    "/assets/start-b67744d5.js",
+    "/assets/start-b0114c22.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -1378,8 +1406,8 @@
     "/assets/background-36e5d431.png"
   ],
   "src/pages/start.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/start-43426cc9.js",
-    "/assets/start-e2ddce5d.css",
+    "/assets/start-b67744d5.js",
+    "/assets/start-b0114c22.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -1392,8 +1420,8 @@
     "/assets/background-36e5d431.png"
   ],
   "src/pages/start.vue?vue&type=style&index=0&scoped=ac866f83&lang.css": [
-    "/assets/start-43426cc9.js",
-    "/assets/start-e2ddce5d.css",
+    "/assets/start-b67744d5.js",
+    "/assets/start-b0114c22.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -1406,7 +1434,7 @@
     "/assets/background-36e5d431.png"
   ],
   "src/stores/user.ts": [
-    "/assets/_name_-7f38db57.js"
+    "/assets/_name_-675e58d8.js"
   ],
   "src/styles/atropos.css": [
     "/assets/logo-73aa629b.svg",
