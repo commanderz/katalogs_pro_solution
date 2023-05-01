@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="98"
+   height="98"
+   viewBox="0 0 98 98"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="daf.svg"
+   inkscape:version="1.3-dev (f3df6cc7, 2022-08-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.97995"
+     inkscape:cx="-20.805718"
+     inkscape:cy="48.15517"
+     inkscape:window-width="1920"
+     inkscape:window-height="1177"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+  <desc
+     id="desc1">Created with Sketch.</desc>
+  <defs
+     id="defs1" />
+  <g
+     id="Page-1"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd"
+     transform="translate(0,36.913371)">
+    <g
+       id="All-data-blocks"
+       transform="translate(-26,-58)"
+       fill-rule="nonzero">
+      <g
+         id="Nav-"
+         transform="translate(-11)">
+        <g
+           id="DAF_logo"
+           transform="translate(37,58)">
+          <polygon
+             id="path3011"
+             fill="#004993"
+             points="53.77216,13.048739 49.209758,4.64049 42.037278,18 32,18 41.609162,0 56.518184,0 66,17.999126 45.329384,17.999126 47.969154,13.048739 " />
+          <polygon
+             id="path3015"
+             fill="#004993"
+             points="97.768573,13.379596 80.255353,13.379596 80.255353,18 69.004156,18 69,0 98,0 98,5.2298092 80.255353,5.2298092 80.255353,8.3984839 97.768573,8.4002312 " />
+          <polygon
+             id="path3017"
+             fill="#e3001e"
+             points="0,20 98,20 98,28 0,28 " />
+          <path
+             d="m 10.947867,4.8205843 h 2.529185 2.200308 c 2.259792,0 2.895182,0.4753466 3.659481,1.2435117 0.765098,0.7681383 1.174919,1.9331722 1.174919,3.0020488 0,1.1720742 -0.408169,2.2515362 -1.173268,3.0197022 -0.764299,0.768138 -1.43439,1.224978 -3.568599,1.224978 H 13.477052 10.947867 V 9.0661448 Z M 0,18 h 19.542577 c 5.672216,0 8.408782,-1.149141 10.132348,-2.991489 C 31.398494,13.165309 32,10.629781 32,9.0000133 32,7.3702192 31.398494,4.8346906 29.674925,2.9923691 27.951359,1.149141 25.214793,0 19.542577,0 H 0 Z"
+             id="path3029"
+             fill="#004993" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

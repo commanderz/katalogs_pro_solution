@@ -78,50 +78,62 @@ define(['./workbox-148cb7e5'], (function (workbox) { 'use strict';
    * See https://goo.gl/S9QRab
    */
   workbox.precacheAndRoute([{
-    "url": "assets/_...all_-4c4340d2.js",
+    "url": "assets/_...all_-7d2c31d7.js",
     "revision": null
   }, {
-    "url": "assets/_name_-eca50565.js",
+    "url": "assets/_name_-a2008fed.js",
     "revision": null
   }, {
-    "url": "assets/404-e093c490.js",
+    "url": "assets/404-7489ffcc.js",
     "revision": null
   }, {
-    "url": "assets/app-0f7d6a65.js",
+    "url": "assets/aos-de4a0d3f.js",
     "revision": null
   }, {
-    "url": "assets/default0-785a5194.js",
+    "url": "assets/app-a61ca8b1.js",
     "revision": null
   }, {
-    "url": "assets/home-f4beff49.js",
+    "url": "assets/default0-78a4418a.js",
     "revision": null
   }, {
-    "url": "assets/index-122773b1.css",
+    "url": "assets/home-5452b306.js",
+    "revision": null
+  }, {
+    "url": "assets/index-d2d12337.css",
+    "revision": null
+  }, {
+    "url": "assets/katalogs-576c8074.css",
+    "revision": null
+  }, {
+    "url": "assets/katalogs-f5fb975d.js",
     "revision": null
   }, {
     "url": "assets/start-717dd227.css",
     "revision": null
   }, {
-    "url": "assets/start-a720e169.js",
+    "url": "assets/start-da9805f7.js",
     "revision": null
   }, {
-    "url": "assets/TheFooter-9a299e9a.js",
+    "url": "assets/TheFooter-04651040.css",
     "revision": null
   }, {
-    "url": "assets/TheFooter-b399e625.css",
+    "url": "assets/TheFooter-9789c052.js",
     "revision": null
   }, {
-    "url": "assets/virtual_pwa-register-1ad02518.js",
+    "url": "assets/virtual_pwa-register-a6866dfe.js",
     "revision": null
   }, {
-    "url": "assets/workbox-window.prod.es5-295a6886.js",
+    "url": "assets/workbox-window.prod.es5-dc90f814.js",
     "revision": null
   }, {
     "url": "index.html",
-    "revision": "b4b8db9f493713c1f456356adf874584"
+    "revision": "2bb1e7600c2047d9968a6697c625a4f6"
+  }, {
+    "url": "katalogs.html",
+    "revision": "28e79016bc7774c5d968c69dfe3e1047"
   }, {
     "url": "start.html",
-    "revision": "8773ce6a739423065dde5773cdcaf5b1"
+    "revision": "50cb8254c79da32381cfa70a48475a5b"
   }, {
     "url": "favicon.svg",
     "revision": "9c0135317804268933c342fb51058593"
