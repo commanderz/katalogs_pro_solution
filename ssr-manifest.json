@@ -1,6 +1,6 @@
 {
   "\u0000C:/_nextjsprojects/_Upwork/katalogs_landing2/node_modules/aos/dist/aos.js?commonjs-module": [
-    "/assets/aos-de4a0d3f.js"
+    "/assets/aos-b0484546.js"
   ],
   "\u0000C:/_nextjsprojects/_Upwork/katalogs_landing2/node_modules/nprogress/nprogress.js?commonjs-module": [
     "/assets/logo-73aa629b.svg",
@@ -99,7 +99,7 @@
     "/assets/bg-1c17d2ff.jpg"
   ],
   "../../../@vite-plugin-pwa/virtual:pwa-register": [
-    "/assets/virtual_pwa-register-a6866dfe.js"
+    "/assets/virtual_pwa-register-06210158.js"
   ],
   "../../../@vite-plugin-vue-layouts/generated-layouts": [
     "/assets/logo-73aa629b.svg",
@@ -354,68 +354,68 @@
     "/assets/bg-1c17d2ff.jpg"
   ],
   "node_modules/@headlessui/vue/dist/components/tabs/tabs.js": [
-    "/assets/katalogs-f5fb975d.js",
-    "/assets/katalogs-576c8074.css",
+    "/assets/katalogs-bb618eec.js",
+    "/assets/katalogs-2de35e9c.css",
     "/assets/background-36e5d431.png"
   ],
   "node_modules/@headlessui/vue/dist/hooks/use-id.js": [
-    "/assets/katalogs-f5fb975d.js",
-    "/assets/katalogs-576c8074.css",
+    "/assets/katalogs-bb618eec.js",
+    "/assets/katalogs-2de35e9c.css",
     "/assets/background-36e5d431.png"
   ],
   "node_modules/@headlessui/vue/dist/hooks/use-resolve-button-type.js": [
-    "/assets/katalogs-f5fb975d.js",
-    "/assets/katalogs-576c8074.css",
+    "/assets/katalogs-bb618eec.js",
+    "/assets/katalogs-2de35e9c.css",
     "/assets/background-36e5d431.png"
   ],
   "node_modules/@headlessui/vue/dist/internal/focus-sentinel.js": [
-    "/assets/katalogs-f5fb975d.js",
-    "/assets/katalogs-576c8074.css",
+    "/assets/katalogs-bb618eec.js",
+    "/assets/katalogs-2de35e9c.css",
     "/assets/background-36e5d431.png"
   ],
   "node_modules/@headlessui/vue/dist/internal/hidden.js": [
-    "/assets/katalogs-f5fb975d.js",
-    "/assets/katalogs-576c8074.css",
+    "/assets/katalogs-bb618eec.js",
+    "/assets/katalogs-2de35e9c.css",
     "/assets/background-36e5d431.png"
   ],
   "node_modules/@headlessui/vue/dist/keyboard.js": [
-    "/assets/katalogs-f5fb975d.js",
-    "/assets/katalogs-576c8074.css",
+    "/assets/katalogs-bb618eec.js",
+    "/assets/katalogs-2de35e9c.css",
     "/assets/background-36e5d431.png"
   ],
   "node_modules/@headlessui/vue/dist/utils/dom.js": [
-    "/assets/katalogs-f5fb975d.js",
-    "/assets/katalogs-576c8074.css",
+    "/assets/katalogs-bb618eec.js",
+    "/assets/katalogs-2de35e9c.css",
     "/assets/background-36e5d431.png"
   ],
   "node_modules/@headlessui/vue/dist/utils/env.js": [
-    "/assets/katalogs-f5fb975d.js",
-    "/assets/katalogs-576c8074.css",
+    "/assets/katalogs-bb618eec.js",
+    "/assets/katalogs-2de35e9c.css",
     "/assets/background-36e5d431.png"
   ],
   "node_modules/@headlessui/vue/dist/utils/focus-management.js": [
-    "/assets/katalogs-f5fb975d.js",
-    "/assets/katalogs-576c8074.css",
+    "/assets/katalogs-bb618eec.js",
+    "/assets/katalogs-2de35e9c.css",
     "/assets/background-36e5d431.png"
   ],
   "node_modules/@headlessui/vue/dist/utils/match.js": [
-    "/assets/katalogs-f5fb975d.js",
-    "/assets/katalogs-576c8074.css",
+    "/assets/katalogs-bb618eec.js",
+    "/assets/katalogs-2de35e9c.css",
     "/assets/background-36e5d431.png"
   ],
   "node_modules/@headlessui/vue/dist/utils/micro-task.js": [
-    "/assets/katalogs-f5fb975d.js",
-    "/assets/katalogs-576c8074.css",
+    "/assets/katalogs-bb618eec.js",
+    "/assets/katalogs-2de35e9c.css",
     "/assets/background-36e5d431.png"
   ],
   "node_modules/@headlessui/vue/dist/utils/owner.js": [
-    "/assets/katalogs-f5fb975d.js",
-    "/assets/katalogs-576c8074.css",
+    "/assets/katalogs-bb618eec.js",
+    "/assets/katalogs-2de35e9c.css",
     "/assets/background-36e5d431.png"
   ],
   "node_modules/@headlessui/vue/dist/utils/render.js": [
-    "/assets/katalogs-f5fb975d.js",
-    "/assets/katalogs-576c8074.css",
+    "/assets/katalogs-bb618eec.js",
+    "/assets/katalogs-2de35e9c.css",
     "/assets/background-36e5d431.png"
   ],
   "node_modules/@intlify/core-base/dist/core-base.esm-bundler.js": [
@@ -671,7 +671,7 @@
     "/assets/bg-1c17d2ff.jpg"
   ],
   "node_modules/aos/dist/aos.js": [
-    "/assets/aos-de4a0d3f.js"
+    "/assets/aos-b0484546.js"
   ],
   "node_modules/atropos/esm/atropos.esm.js": [
     "/assets/logo-73aa629b.svg",
@@ -869,7 +869,7 @@
     "/assets/bg-1c17d2ff.jpg"
   ],
   "src/assets/img/getting-started/Pay2.svg": [
-    "/assets/start-da9805f7.js",
+    "/assets/start-c2d78add.js",
     "/assets/start-717dd227.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
@@ -882,7 +882,7 @@
     "/assets/background-36e5d431.png"
   ],
   "src/assets/img/getting-started/access.png": [
-    "/assets/start-da9805f7.js",
+    "/assets/start-c2d78add.js",
     "/assets/start-717dd227.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
@@ -895,7 +895,7 @@
     "/assets/background-36e5d431.png"
   ],
   "src/assets/img/getting-started/contacts.svg": [
-    "/assets/start-da9805f7.js",
+    "/assets/start-c2d78add.js",
     "/assets/start-717dd227.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
@@ -908,7 +908,7 @@
     "/assets/background-36e5d431.png"
   ],
   "src/assets/img2/auto3_.webp": [
-    "/assets/start-da9805f7.js",
+    "/assets/start-c2d78add.js",
     "/assets/start-717dd227.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
@@ -1005,7 +1005,7 @@
     "/assets/bg-1c17d2ff.jpg"
   ],
   "src/assets/img2/truck4_.png": [
-    "/assets/start-da9805f7.js",
+    "/assets/start-c2d78add.js",
     "/assets/start-717dd227.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
@@ -1018,7 +1018,7 @@
     "/assets/background-36e5d431.png"
   ],
   "src/assets/img2/vin_srch2.png": [
-    "/assets/start-da9805f7.js",
+    "/assets/start-c2d78add.js",
     "/assets/start-717dd227.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
@@ -1055,7 +1055,7 @@
     "/assets/bg-1c17d2ff.jpg"
   ],
   "src/assets/img2/white2.png": [
-    "/assets/start-da9805f7.js",
+    "/assets/start-c2d78add.js",
     "/assets/start-717dd227.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
@@ -1068,7 +1068,7 @@
     "/assets/background-36e5d431.png"
   ],
   "src/assets/img2/white3_.png": [
-    "/assets/start-da9805f7.js",
+    "/assets/start-c2d78add.js",
     "/assets/start-717dd227.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
@@ -1093,15 +1093,15 @@
     "/assets/bg-1c17d2ff.jpg"
   ],
   "src/components/TheFooter.vue": [
-    "/assets/TheFooter-9789c052.js",
+    "/assets/TheFooter-2b78b709.js",
     "/assets/TheFooter-04651040.css"
   ],
   "src/components/TheFooter.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/TheFooter-9789c052.js",
+    "/assets/TheFooter-2b78b709.js",
     "/assets/TheFooter-04651040.css"
   ],
   "src/components/TheFooter.vue?vue&type=style&index=0&scope=true&lang.css": [
-    "/assets/TheFooter-9789c052.js",
+    "/assets/TheFooter-2b78b709.js",
     "/assets/TheFooter-04651040.css"
   ],
   "src/components/base/BaseButton.vue": [
@@ -1177,10 +1177,10 @@
     "/assets/bg-1c17d2ff.jpg"
   ],
   "src/components/base/BaseSection.vue": [
-    "/assets/aos-de4a0d3f.js"
+    "/assets/aos-b0484546.js"
   ],
   "src/components/landing/LandingListItem.vue": [
-    "/assets/start-da9805f7.js",
+    "/assets/start-c2d78add.js",
     "/assets/start-717dd227.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
@@ -1193,7 +1193,7 @@
     "/assets/background-36e5d431.png"
   ],
   "src/components/vmdi/ArrowRightIcon.vue": [
-    "/assets/start-da9805f7.js",
+    "/assets/start-c2d78add.js",
     "/assets/start-717dd227.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
@@ -1206,7 +1206,7 @@
     "/assets/background-36e5d431.png"
   ],
   "src/components/vmdi/ArrowUpIcon.vue": [
-    "/assets/aos-de4a0d3f.js"
+    "/assets/aos-b0484546.js"
   ],
   "src/components/vmdi/CloseIcon.vue": [
     "/assets/logo-73aa629b.svg",
@@ -1245,10 +1245,10 @@
     "/assets/bg-1c17d2ff.jpg"
   ],
   "src/layouts/404.vue": [
-    "/assets/404-7489ffcc.js"
+    "/assets/404-2df36cb8.js"
   ],
   "src/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/404-7489ffcc.js"
+    "/assets/404-2df36cb8.js"
   ],
   "src/layouts/default.vue": [
     "/assets/logo-73aa629b.svg",
@@ -1275,10 +1275,10 @@
     "/assets/bg-1c17d2ff.jpg"
   ],
   "src/layouts/default0.vue": [
-    "/assets/default0-78a4418a.js"
+    "/assets/default0-7c4d1be7.js"
   ],
   "src/layouts/home.vue": [
-    "/assets/home-5452b306.js"
+    "/assets/home-60d8cff1.js"
   ],
   "src/main.ts": [
     "/assets/logo-73aa629b.svg",
@@ -1353,16 +1353,16 @@
     "/assets/bg-1c17d2ff.jpg"
   ],
   "src/pages/[...all].vue": [
-    "/assets/_...all_-7d2c31d7.js"
+    "/assets/_...all_-6be047bc.js"
   ],
   "src/pages/[...all].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_...all_-7d2c31d7.js"
+    "/assets/_...all_-6be047bc.js"
   ],
   "src/pages/hi/[name].vue": [
-    "/assets/_name_-a2008fed.js"
+    "/assets/_name_-27d93cf0.js"
   ],
   "src/pages/hi/[name].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_name_-a2008fed.js"
+    "/assets/_name_-27d93cf0.js"
   ],
   "src/pages/index.vue": [
     "/assets/logo-73aa629b.svg",
@@ -1389,22 +1389,22 @@
     "/assets/bg-1c17d2ff.jpg"
   ],
   "src/pages/katalogs.vue": [
-    "/assets/katalogs-f5fb975d.js",
-    "/assets/katalogs-576c8074.css",
+    "/assets/katalogs-bb618eec.js",
+    "/assets/katalogs-2de35e9c.css",
     "/assets/background-36e5d431.png"
   ],
   "src/pages/katalogs.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/katalogs-f5fb975d.js",
-    "/assets/katalogs-576c8074.css",
+    "/assets/katalogs-bb618eec.js",
+    "/assets/katalogs-2de35e9c.css",
     "/assets/background-36e5d431.png"
   ],
   "src/pages/katalogs.vue?vue&type=style&index=0&scoped=ba1e0443&lang.css": [
-    "/assets/katalogs-f5fb975d.js",
-    "/assets/katalogs-576c8074.css",
+    "/assets/katalogs-bb618eec.js",
+    "/assets/katalogs-2de35e9c.css",
     "/assets/background-36e5d431.png"
   ],
   "src/pages/start.vue": [
-    "/assets/start-da9805f7.js",
+    "/assets/start-c2d78add.js",
     "/assets/start-717dd227.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
@@ -1417,7 +1417,7 @@
     "/assets/background-36e5d431.png"
   ],
   "src/pages/start.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/start-da9805f7.js",
+    "/assets/start-c2d78add.js",
     "/assets/start-717dd227.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
@@ -1430,7 +1430,7 @@
     "/assets/background-36e5d431.png"
   ],
   "src/pages/start.vue?vue&type=style&index=0&scoped=ac866f83&lang.css": [
-    "/assets/start-da9805f7.js",
+    "/assets/start-c2d78add.js",
     "/assets/start-717dd227.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
@@ -1443,7 +1443,7 @@
     "/assets/background-36e5d431.png"
   ],
   "src/stores/user.ts": [
-    "/assets/_name_-a2008fed.js"
+    "/assets/_name_-27d93cf0.js"
   ],
   "src/styles/atropos.css": [
     "/assets/logo-73aa629b.svg",
@@ -1470,18 +1470,18 @@
     "/assets/bg-1c17d2ff.jpg"
   ],
   "~icons/fa/gears": [
-    "/assets/katalogs-f5fb975d.js",
-    "/assets/katalogs-576c8074.css",
+    "/assets/katalogs-bb618eec.js",
+    "/assets/katalogs-2de35e9c.css",
     "/assets/background-36e5d431.png"
   ],
   "~icons/fontisto/truck": [
-    "/assets/katalogs-f5fb975d.js",
-    "/assets/katalogs-576c8074.css",
+    "/assets/katalogs-bb618eec.js",
+    "/assets/katalogs-2de35e9c.css",
     "/assets/background-36e5d431.png"
   ],
   "~icons/ion/car-sport": [
-    "/assets/katalogs-f5fb975d.js",
-    "/assets/katalogs-576c8074.css",
+    "/assets/katalogs-bb618eec.js",
+    "/assets/katalogs-2de35e9c.css",
     "/assets/background-36e5d431.png"
   ]
 }
