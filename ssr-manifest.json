@@ -1,6 +1,6 @@
 {
   "\u0000C:/_nextjsprojects/_Upwork/katalogs_landing2/node_modules/aos/dist/aos.js?commonjs-module": [
-    "/assets/aos-58f270a1.js"
+    "/assets/gears-2db73642.js"
   ],
   "\u0000C:/_nextjsprojects/_Upwork/katalogs_landing2/node_modules/nprogress/nprogress.js?commonjs-module": [
     "/assets/logo-73aa629b.svg",
@@ -99,7 +99,7 @@
     "/assets/bg-1c17d2ff.jpg"
   ],
   "../../../@vite-plugin-pwa/virtual:pwa-register": [
-    "/assets/virtual_pwa-register-31322d41.js"
+    "/assets/virtual_pwa-register-41088409.js"
   ],
   "../../../@vite-plugin-vue-layouts/generated-layouts": [
     "/assets/logo-73aa629b.svg",
@@ -354,69 +354,43 @@
     "/assets/bg-1c17d2ff.jpg"
   ],
   "node_modules/@headlessui/vue/dist/components/tabs/tabs.js": [
-    "/assets/katalogs-5fc14c51.js",
-    "/assets/katalogs-44537b7c.css",
-    "/assets/background-36e5d431.png"
+    "/assets/gears-2db73642.js"
   ],
   "node_modules/@headlessui/vue/dist/hooks/use-id.js": [
-    "/assets/katalogs-5fc14c51.js",
-    "/assets/katalogs-44537b7c.css",
-    "/assets/background-36e5d431.png"
+    "/assets/gears-2db73642.js"
   ],
   "node_modules/@headlessui/vue/dist/hooks/use-resolve-button-type.js": [
-    "/assets/katalogs-5fc14c51.js",
-    "/assets/katalogs-44537b7c.css",
-    "/assets/background-36e5d431.png"
+    "/assets/gears-2db73642.js"
   ],
   "node_modules/@headlessui/vue/dist/internal/focus-sentinel.js": [
-    "/assets/katalogs-5fc14c51.js",
-    "/assets/katalogs-44537b7c.css",
-    "/assets/background-36e5d431.png"
+    "/assets/gears-2db73642.js"
   ],
   "node_modules/@headlessui/vue/dist/internal/hidden.js": [
-    "/assets/katalogs-5fc14c51.js",
-    "/assets/katalogs-44537b7c.css",
-    "/assets/background-36e5d431.png"
+    "/assets/gears-2db73642.js"
   ],
   "node_modules/@headlessui/vue/dist/keyboard.js": [
-    "/assets/katalogs-5fc14c51.js",
-    "/assets/katalogs-44537b7c.css",
-    "/assets/background-36e5d431.png"
+    "/assets/gears-2db73642.js"
   ],
   "node_modules/@headlessui/vue/dist/utils/dom.js": [
-    "/assets/katalogs-5fc14c51.js",
-    "/assets/katalogs-44537b7c.css",
-    "/assets/background-36e5d431.png"
+    "/assets/gears-2db73642.js"
   ],
   "node_modules/@headlessui/vue/dist/utils/env.js": [
-    "/assets/katalogs-5fc14c51.js",
-    "/assets/katalogs-44537b7c.css",
-    "/assets/background-36e5d431.png"
+    "/assets/gears-2db73642.js"
   ],
   "node_modules/@headlessui/vue/dist/utils/focus-management.js": [
-    "/assets/katalogs-5fc14c51.js",
-    "/assets/katalogs-44537b7c.css",
-    "/assets/background-36e5d431.png"
+    "/assets/gears-2db73642.js"
   ],
   "node_modules/@headlessui/vue/dist/utils/match.js": [
-    "/assets/katalogs-5fc14c51.js",
-    "/assets/katalogs-44537b7c.css",
-    "/assets/background-36e5d431.png"
+    "/assets/gears-2db73642.js"
   ],
   "node_modules/@headlessui/vue/dist/utils/micro-task.js": [
-    "/assets/katalogs-5fc14c51.js",
-    "/assets/katalogs-44537b7c.css",
-    "/assets/background-36e5d431.png"
+    "/assets/gears-2db73642.js"
   ],
   "node_modules/@headlessui/vue/dist/utils/owner.js": [
-    "/assets/katalogs-5fc14c51.js",
-    "/assets/katalogs-44537b7c.css",
-    "/assets/background-36e5d431.png"
+    "/assets/gears-2db73642.js"
   ],
   "node_modules/@headlessui/vue/dist/utils/render.js": [
-    "/assets/katalogs-5fc14c51.js",
-    "/assets/katalogs-44537b7c.css",
-    "/assets/background-36e5d431.png"
+    "/assets/gears-2db73642.js"
   ],
   "node_modules/@intlify/core-base/dist/core-base.esm-bundler.js": [
     "/assets/logo-73aa629b.svg",
@@ -671,7 +645,7 @@
     "/assets/bg-1c17d2ff.jpg"
   ],
   "node_modules/aos/dist/aos.js": [
-    "/assets/aos-58f270a1.js"
+    "/assets/gears-2db73642.js"
   ],
   "node_modules/atropos/esm/atropos.esm.js": [
     "/assets/logo-73aa629b.svg",
@@ -869,8 +843,8 @@
     "/assets/bg-1c17d2ff.jpg"
   ],
   "src/assets/img/getting-started/Pay2.svg": [
-    "/assets/start-bf1b546a.js",
-    "/assets/start-717dd227.css",
+    "/assets/start-d79ad0b7.js",
+    "/assets/start-da5d7f29.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -882,8 +856,8 @@
     "/assets/background-36e5d431.png"
   ],
   "src/assets/img/getting-started/access.png": [
-    "/assets/start-bf1b546a.js",
-    "/assets/start-717dd227.css",
+    "/assets/start-d79ad0b7.js",
+    "/assets/start-da5d7f29.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -895,8 +869,8 @@
     "/assets/background-36e5d431.png"
   ],
   "src/assets/img/getting-started/contacts.svg": [
-    "/assets/start-bf1b546a.js",
-    "/assets/start-717dd227.css",
+    "/assets/start-d79ad0b7.js",
+    "/assets/start-da5d7f29.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -908,8 +882,8 @@
     "/assets/background-36e5d431.png"
   ],
   "src/assets/img2/auto3_.webp": [
-    "/assets/start-bf1b546a.js",
-    "/assets/start-717dd227.css",
+    "/assets/start-d79ad0b7.js",
+    "/assets/start-da5d7f29.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -1005,8 +979,8 @@
     "/assets/bg-1c17d2ff.jpg"
   ],
   "src/assets/img2/truck4_.png": [
-    "/assets/start-bf1b546a.js",
-    "/assets/start-717dd227.css",
+    "/assets/start-d79ad0b7.js",
+    "/assets/start-da5d7f29.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -1018,8 +992,8 @@
     "/assets/background-36e5d431.png"
   ],
   "src/assets/img2/vin_srch2.png": [
-    "/assets/start-bf1b546a.js",
-    "/assets/start-717dd227.css",
+    "/assets/start-d79ad0b7.js",
+    "/assets/start-da5d7f29.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -1055,8 +1029,8 @@
     "/assets/bg-1c17d2ff.jpg"
   ],
   "src/assets/img2/white2.png": [
-    "/assets/start-bf1b546a.js",
-    "/assets/start-717dd227.css",
+    "/assets/start-d79ad0b7.js",
+    "/assets/start-da5d7f29.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -1068,8 +1042,8 @@
     "/assets/background-36e5d431.png"
   ],
   "src/assets/img2/white3_.png": [
-    "/assets/start-bf1b546a.js",
-    "/assets/start-717dd227.css",
+    "/assets/start-d79ad0b7.js",
+    "/assets/start-da5d7f29.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -1093,15 +1067,15 @@
     "/assets/bg-1c17d2ff.jpg"
   ],
   "src/components/TheFooter.vue": [
-    "/assets/TheFooter-8182c5a4.js",
+    "/assets/TheFooter-6b155b24.js",
     "/assets/TheFooter-04651040.css"
   ],
   "src/components/TheFooter.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/TheFooter-8182c5a4.js",
+    "/assets/TheFooter-6b155b24.js",
     "/assets/TheFooter-04651040.css"
   ],
   "src/components/TheFooter.vue?vue&type=style&index=0&scope=true&lang.css": [
-    "/assets/TheFooter-8182c5a4.js",
+    "/assets/TheFooter-6b155b24.js",
     "/assets/TheFooter-04651040.css"
   ],
   "src/components/base/BaseButton.vue": [
@@ -1177,24 +1151,11 @@
     "/assets/bg-1c17d2ff.jpg"
   ],
   "src/components/base/BaseSection.vue": [
-    "/assets/aos-58f270a1.js"
+    "/assets/gears-2db73642.js"
   ],
   "src/components/landing/LandingListItem.vue": [
-    "/assets/start-bf1b546a.js",
-    "/assets/start-717dd227.css",
-    "/assets/white2-b033eb1e.png",
-    "/assets/vin_srch2-e9ce73b1.png",
-    "/assets/auto3_-748a0500.webp",
-    "/assets/white3_-30083026.png",
-    "/assets/truck4_-23748a41.png",
-    "/assets/contacts-a3ca9a89.svg",
-    "/assets/Pay2-376bcd35.svg",
-    "/assets/access-8605add8.png",
-    "/assets/background-36e5d431.png"
-  ],
-  "src/components/vmdi/ArrowRightIcon.vue": [
-    "/assets/start-bf1b546a.js",
-    "/assets/start-717dd227.css",
+    "/assets/start-d79ad0b7.js",
+    "/assets/start-da5d7f29.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -1206,7 +1167,7 @@
     "/assets/background-36e5d431.png"
   ],
   "src/components/vmdi/ArrowUpIcon.vue": [
-    "/assets/aos-58f270a1.js"
+    "/assets/gears-2db73642.js"
   ],
   "src/components/vmdi/CloseIcon.vue": [
     "/assets/logo-73aa629b.svg",
@@ -1245,10 +1206,10 @@
     "/assets/bg-1c17d2ff.jpg"
   ],
   "src/layouts/404.vue": [
-    "/assets/404-3531496f.js"
+    "/assets/404-14e622e1.js"
   ],
   "src/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/404-3531496f.js"
+    "/assets/404-14e622e1.js"
   ],
   "src/layouts/default.vue": [
     "/assets/logo-73aa629b.svg",
@@ -1275,10 +1236,10 @@
     "/assets/bg-1c17d2ff.jpg"
   ],
   "src/layouts/default0.vue": [
-    "/assets/default0-fb6b767b.js"
+    "/assets/default0-bf8d154a.js"
   ],
   "src/layouts/home.vue": [
-    "/assets/home-d5a543c5.js"
+    "/assets/home-c0b76bc3.js"
   ],
   "src/main.ts": [
     "/assets/logo-73aa629b.svg",
@@ -1353,16 +1314,16 @@
     "/assets/bg-1c17d2ff.jpg"
   ],
   "src/pages/[...all].vue": [
-    "/assets/_...all_-acc1f0df.js"
+    "/assets/_...all_-16010303.js"
   ],
   "src/pages/[...all].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_...all_-acc1f0df.js"
+    "/assets/_...all_-16010303.js"
   ],
   "src/pages/hi/[name].vue": [
-    "/assets/_name_-3a5dfc33.js"
+    "/assets/_name_-82509dc4.js"
   ],
   "src/pages/hi/[name].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_name_-3a5dfc33.js"
+    "/assets/_name_-82509dc4.js"
   ],
   "src/pages/index.vue": [
     "/assets/logo-73aa629b.svg",
@@ -1389,23 +1350,23 @@
     "/assets/bg-1c17d2ff.jpg"
   ],
   "src/pages/katalogs.vue": [
-    "/assets/katalogs-5fc14c51.js",
+    "/assets/katalogs-933af085.js",
     "/assets/katalogs-44537b7c.css",
     "/assets/background-36e5d431.png"
   ],
   "src/pages/katalogs.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/katalogs-5fc14c51.js",
+    "/assets/katalogs-933af085.js",
     "/assets/katalogs-44537b7c.css",
     "/assets/background-36e5d431.png"
   ],
   "src/pages/katalogs.vue?vue&type=style&index=0&scoped=ba1e0443&lang.css": [
-    "/assets/katalogs-5fc14c51.js",
+    "/assets/katalogs-933af085.js",
     "/assets/katalogs-44537b7c.css",
     "/assets/background-36e5d431.png"
   ],
   "src/pages/start.vue": [
-    "/assets/start-bf1b546a.js",
-    "/assets/start-717dd227.css",
+    "/assets/start-d79ad0b7.js",
+    "/assets/start-da5d7f29.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -1417,8 +1378,8 @@
     "/assets/background-36e5d431.png"
   ],
   "src/pages/start.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/start-bf1b546a.js",
-    "/assets/start-717dd227.css",
+    "/assets/start-d79ad0b7.js",
+    "/assets/start-da5d7f29.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -1430,8 +1391,8 @@
     "/assets/background-36e5d431.png"
   ],
   "src/pages/start.vue?vue&type=style&index=0&scoped=ac866f83&lang.css": [
-    "/assets/start-bf1b546a.js",
-    "/assets/start-717dd227.css",
+    "/assets/start-d79ad0b7.js",
+    "/assets/start-da5d7f29.css",
     "/assets/white2-b033eb1e.png",
     "/assets/vin_srch2-e9ce73b1.png",
     "/assets/auto3_-748a0500.webp",
@@ -1443,7 +1404,7 @@
     "/assets/background-36e5d431.png"
   ],
   "src/stores/user.ts": [
-    "/assets/_name_-3a5dfc33.js"
+    "/assets/_name_-82509dc4.js"
   ],
   "src/styles/atropos.css": [
     "/assets/logo-73aa629b.svg",
@@ -1470,18 +1431,12 @@
     "/assets/bg-1c17d2ff.jpg"
   ],
   "~icons/fa/gears": [
-    "/assets/katalogs-5fc14c51.js",
-    "/assets/katalogs-44537b7c.css",
-    "/assets/background-36e5d431.png"
+    "/assets/gears-2db73642.js"
   ],
   "~icons/fontisto/truck": [
-    "/assets/katalogs-5fc14c51.js",
-    "/assets/katalogs-44537b7c.css",
-    "/assets/background-36e5d431.png"
+    "/assets/gears-2db73642.js"
   ],
   "~icons/ion/car-sport": [
-    "/assets/katalogs-5fc14c51.js",
-    "/assets/katalogs-44537b7c.css",
-    "/assets/background-36e5d431.png"
+    "/assets/gears-2db73642.js"
   ]
 }
